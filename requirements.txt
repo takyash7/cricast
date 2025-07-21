@@ -1,7 +1,8 @@
 streamlit
 streamlit-option-menu
+firebase-admin
+requests
 pandas
 numpy
-os
-load_dotenv
-
+xgboost
+python-dotenv
